@@ -1,0 +1,25 @@
+Industry,AI Impact Level,Automation Risk (%),Median Salary (USD),Openings_Pct_Change,Count
+Education,High,44.27,87935.55,143.02,1211
+Education,Low,41.89,89717.75,139.13,1267
+Education,Moderate,43.58,88935.76,129.6,1236
+Entertainment,High,43.22,90034.11,113.43,1277
+Entertainment,Low,44.12,91573.53,162.61,1250
+Entertainment,Moderate,42.65,90781.79,141.97,1368
+Finance,High,41.06,108634.87,128.95,1263
+Finance,Low,40.29,111422.83,153.85,1202
+Finance,Moderate,42.74,110283.64,153.28,1256
+Healthcare,High,43.22,93352.9,137.13,1269
+Healthcare,Low,42.7,94752.01,163.41,1236
+Healthcare,Moderate,42.95,94210.91,133.0,1266
+IT,High,40.59,111204.01,188.76,1240
+IT,Low,39.0,113795.8,144.43,1238
+IT,Moderate,40.24,112384.48,197.08,1203
+Manufacturing,High,42.23,91411.98,123.34,1284
+Manufacturing,Low,42.37,93029.78,137.54,1269
+Manufacturing,Moderate,42.41,92824.12,131.66,1302
+Retail,High,44.08,85580.59,121.94,1240
+Retail,Low,42.79,88223.75,126.16,1269
+Retail,Moderate,44.66,86064.87,144.13,1193
+Transportation,High,45.29,83880.96,127.05,1221
+Transportation,Low,44.39,85874.82,124.4,1222
+Transportation,Moderate,45.23,84929.26,122.93,1218

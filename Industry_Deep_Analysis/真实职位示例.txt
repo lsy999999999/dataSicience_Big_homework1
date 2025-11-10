@@ -1,0 +1,123 @@
+================================================================================
+每个职位类型的真实示例 (来自数据集)
+================================================================================
+
+【Administrative】 (样本量: 3741)
+   1. Administrator
+   2. Administrator, Civil Service
+   3. Administrator, arts
+   4. Administrator, charities/voluntary organisations
+   5. Administrator, education
+   6. Administrator, local government
+   7. Administrator, sports
+   8. Armed forces logistics/support/administrative officer
+   9. Armed forces operational officer
+  10. Armed forces technical officer
+
+【Analysis】 (样本量: 577)
+   1. Agricultural consultant
+   2. Environmental consultant
+   3. Financial risk analyst
+   4. Horticultural consultant
+   5. IT consultant
+   6. Intelligence analyst
+   7. Investment analyst
+   8. Management consultant
+   9. Pensions consultant
+  10. Public affairs consultant
+
+【Creative】 (样本量: 1661)
+   1. Advertising copywriter
+   2. Artist
+   3. Ceramics designer
+   4. Copywriter, advertising
+   5. Designer, blown glass/stained glass
+   6. Designer, ceramics/pottery
+   7. Designer, exhibition/display
+   8. Designer, fashion/clothing
+   9. Designer, furniture
+  10. Designer, graphic
+
+【Education】 (样本量: 834)
+   1. Associate Professor
+   2. Early years teacher
+   3. English as a foreign language teacher
+   4. English as a second language teacher
+   5. IT trainer
+   6. Primary school teacher
+   7. Private music teacher
+   8. Professor Emeritus
+   9. Secondary school teacher
+  10. Special educational needs teacher
+
+【Engineering】 (样本量: 4726)
+   1. Aeronautical engineer
+   2. Agricultural engineer
+   3. Applications developer
+   4. Architect
+   5. Architectural technologist
+   6. Audiological scientist
+   7. Automotive engineer
+   8. Biomedical engineer
+   9. Biomedical scientist
+  10. Broadcast engineer
+
+【Management】 (样本量: 3131)
+   1. Accommodation manager
+   2. Advertising account executive
+   3. Advertising art director
+   4. Art gallery manager
+   5. Call centre manager
+   6. Catering manager
+   7. Chartered legal executive (England and Wales)
+   8. Chief Executive Officer
+   9. Chief Financial Officer
+  10. Chief Marketing Officer
+
+【Medical_Professional】 (样本量: 1991)
+   1. Adult nurse
+   2. Art therapist
+   3. Child psychotherapist
+   4. Dance movement psychotherapist
+   5. Dentist
+   6. Doctor, general practice
+   7. Doctor, hospital
+   8. Dramatherapist
+   9. General practice doctor
+  10. Horticultural therapist
+
+【Other】 (样本量: 11956)
+   1. Academic librarian
+   2. Actor
+   3. Actuary
+   4. Acupuncturist
+   5. Air broker
+   6. Air cabin crew
+   7. Air traffic controller
+   8. Airline pilot
+   9. Ambulance person
+  10. Amenity horticulturist
+
+【Sales_Marketing】 (样本量: 610)
+   1. Accountant, chartered
+   2. Accountant, chartered certified
+   3. Accountant, chartered management
+   4. Accountant, chartered public finance
+   5. Accounting technician
+   6. Advertising account planner
+   7. Chartered accountant
+   8. Chartered certified accountant
+   9. Chartered management accountant
+  10. Chartered public finance accountant
+
+【Technical_Operator】 (样本量: 773)
+   1. Adult guidance worker
+   2. Advice worker
+   3. Aid worker
+   4. Camera operator
+   5. Community arts worker
+   6. Community development worker
+   7. Development worker, community
+   8. Development worker, international aid
+   9. International aid/development worker
+  10. Lighting technician, broadcasting/film/video
